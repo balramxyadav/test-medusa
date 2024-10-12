@@ -45,7 +45,7 @@
     "medusa-product-reviews": "^1.0.1",
     "prism-react-renderer": "^2.0.4",
     "raw-body": "^3.0.0",
-    "typeorm": "0.3.16"
+    "typeorm": "0.3.20"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
